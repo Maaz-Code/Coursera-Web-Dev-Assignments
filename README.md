@@ -1,1 +1,1 @@
-# Module2-Solution
+# Web Dev Course Assignments
